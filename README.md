@@ -40,7 +40,7 @@ Each move updates the LED matrix to reflect X or O placement. All interaction is
 
 ## 👤 Author
 
-**Florian David** 
+**Florian David** &
 **Coman Rares Andrei**
 Embedded Systems – Group 433E  
 University POLITEHNICA of Bucharest – 2025
